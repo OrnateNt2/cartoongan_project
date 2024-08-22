@@ -77,4 +77,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 - [Python Telegram Bot](https://python-telegram-bot.readthedocs.io/)
-- [CartoonGAN](https://arxiv.org/abs/1808.08585)
+- [CartoonGAN](https://www.kaggle.com/models/spsayakpaul/cartoongan/)
