@@ -28,7 +28,7 @@ This project is a Telegram bot that converts user-uploaded photos into cartoon-s
 
    ```bash
    git clone https://github.com/OrnateNt2/cartoongan_project.git
-   cd cartoon-telegram-bot
+   cd cartoongan_project
    ```
 
 2. Install the required Python packages:
